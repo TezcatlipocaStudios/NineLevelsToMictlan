@@ -5,8 +5,6 @@ This game is centered arround aztecan mithology, specifically arround Mictlan, w
 
 Its a 2D topview fighting game where you will find countless enemies all belonging to the aztecan, both pre and post hispanic mythology
 
-9 Levels to Mictlan part 2: Xibalba (?)
-
 ## Contents
 + Present readme file
 + Executable packaged with Pyinstaller
