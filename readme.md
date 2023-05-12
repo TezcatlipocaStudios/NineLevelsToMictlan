@@ -1,7 +1,7 @@
 # Nine Levels To Mictlan
 
 ## Description
-This game is centered arround aztecan mithology, specifically arround Mictlan, which is the aztecan version of afterlife
+This game is centered arround aztecan mythology, specifically arround Mictlan, which is the aztecan version of afterlife
 
 Its a 2D topview fighting game where you will find countless enemies all belonging to the aztecan, both pre and post hispanic mythology
 
@@ -9,7 +9,7 @@ Its a 2D topview fighting game where you will find countless enemies all belongi
 + Present readme file
 + Executable packaged with Pyinstaller
 + Source code
-+ imageHardcoder and AudioHardcoder code to hardcode sprites and deliver a single executable with no additional required files
++ imageHardcoder and AudioHardcoder code to hardcode assets and deliver a single executable with no additional required files
 + Assets folder
 + Licence
 
@@ -34,7 +34,7 @@ pyinstaller NineLevelsToMictlan.py --onefile --noconsole
 ## Usage
 To play the game you´ll need a gaming controller, the game itself will require you to connect one if you haven´t already before launching
 
-Once you have your controller ready, youll be able to navigate the menu using either the keyboard, mouse or controller and play with the controller
+Once you have your controller ready, you'll be able to navigate the menu using either the keyboard, mouse or controller and play with the controller
 
 A GameData.json file may be created if you choose to exit the app with a game in progress, this ensures that your game can be reloaded once you launch the app again, this file will delete itself once you reopen the app, only to reappear if this process is triggered again. Deleting this file will not have any negative effect other than the fact that you´ll have to start the game from the beggining 
 
@@ -42,8 +42,7 @@ A GameData.json file may be created if you choose to exit the app with a game in
 ### Collaborators 
 + [TezcatlipocaStudios](https://sites.google.com/view/tezcatlipocastudios/welcome)
 ### Resources
-+ [pygame](https://www.pygame.org/)
-+ [Tezcatlipoca](https://es.wikipedia.org/wiki/Tezcatlipoca)
++ [Pygame](https://www.pygame.org/)
 ### Sources
 + [Mictlan](https://es.wikipedia.org/wiki/Mictl%C3%A1n)
 + [Itzehecayan](https://es.wikipedia.org/wiki/Itzehec%C3%A1yan)
