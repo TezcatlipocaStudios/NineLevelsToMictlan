@@ -44,8 +44,7 @@ A GameData.json file may be created if you choose to exit the app with a game in
 ### Collaborators 
 + [TezcatlipocaStudios](https://sites.google.com/view/tezcatlipocastudios/welcome)
 ### Resources
-+ [pygame](https://www.pygame.org/)
-+ [Tezcatlipoca](https://es.wikipedia.org/wiki/Tezcatlipoca)
++ [Pygame](https://www.pygame.org/)
 ### Sources
 + [Mictlan](https://es.wikipedia.org/wiki/Mictl%C3%A1n)
 + [Itzehecayan](https://es.wikipedia.org/wiki/Itzehec%C3%A1yan)
