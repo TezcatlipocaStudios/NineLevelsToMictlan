@@ -55,6 +55,10 @@ A GameData.json file may be created if you choose to exit the app with a game in
 + [Xolotl](https://es.wikipedia.org/wiki/X%C3%B3lotl_(divinidad))
 + [Macuahuitl](https://www.youtube.com/watch?v=HjN6zdktD4A)
 + [Native mexican species](https://biblioteca.semarnat.gob.mx/janium/Documentos/Cecadesu/Libros/100%20cosas%202.pdf)
++ [Ehecatl](https://es.wikipedia.org/wiki/Eh%C3%A9catl)
++ [Itztlacoliuhqui](https://es.wikipedia.org/wiki/Itztlacoliuhqui)
++ [Mictlantecuhtli](https://es.wikipedia.org/wiki/Mictlantecuhtli)
++ [Mictecacihuatl](https://es.wikipedia.org/wiki/Mictecac%C3%ADhuatl)
 
 ## Licence
 [GNU Affero General Public License v3.0](https://choosealicense.com/licenses/agpl-3.0/)
