@@ -9,7 +9,8 @@ Its a 2D topview fighting game where you will find countless enemies all belongi
 + Present readme file
 + Executable packaged with Pyinstaller
 + Source code
-+ imageHardcoder code to hardcode sprites and deliver a single executable with no additional required files
++ imageHardcoder and AudioHardcoder code to hardcode sprites and deliver a single executable with no additional required files
++ Assets folder
 + Licence
 
 ## Installation
@@ -21,7 +22,6 @@ You´ll have to install the necessary python libraries to do this, to do that, o
 
 ```bash
 pip install pygame
-pip install pyttsx3
 ```
 
 Additionally, you can attempt to package it to have your own functional executable by executing the following commands in the command window:
