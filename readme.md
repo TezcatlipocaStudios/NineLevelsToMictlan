@@ -1,7 +1,7 @@
 # Nine Levels To Mictlan
 
 ## Description
-This game is centered arround aztecan mithology, specifically arround Mictlan, which is the aztecan version of heaven
+This game is centered arround aztecan mithology, specifically arround Mictlan, which is the aztecan version of afterlife
 Its a 2D topview fighting game where you will find countless enemies all belonging to the aztecan, both pre and post hispanic mythology
 
 ## Contents
